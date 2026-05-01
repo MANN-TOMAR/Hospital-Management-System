@@ -55,7 +55,7 @@ public class MYSQLDatabaseOp {
 
         this.URL = "jdbc:mysql://localhost:3306";
         this.USERNAME = "root";
-        this.PASSWORD = "543210mann";
+        this.PASSWORD = "";
 
 //        this.URL = "jdbc:mysql://localhost:3306";
 //        this.USERNAME = "root";
